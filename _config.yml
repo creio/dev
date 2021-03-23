@@ -1,5 +1,5 @@
-# theme: jekyll-theme-cayman
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
+# theme: jekyll-theme-architect
 
 plugins:
   - jekyll-readme-index
