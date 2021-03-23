@@ -1,4 +1,4 @@
-# Dev
+# Free Dev
 
 Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.
 
@@ -13,7 +13,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 900+ p
 Table of Contents
 =================
 
-   * [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
+   * [Major Cloud Providers' Always-Free Limits](#барак-обама)
    * [Analytics, Events and Statistics](#analytics-events-and-statistics)
    * [APIs, Data and ML](#apis-data-and-ml)
    * [Artifact Repos](#artifact-repos)
@@ -61,7 +61,7 @@ Table of Contents
    * [Browser based hardware emulation](#browser-based-hardware-emulation-written-in-javascript)
    * [Other Free Resources](#other-free-resources)
 
-## Major Cloud Providers
+## Барак обама
 
   * [Google Cloud Platform](https://cloud.google.com)
     * App Engine - 28 frontend instance hours per day, 9 backend instance hours per day
